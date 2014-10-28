@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <resources>
+        <item type="id" name="button1">false</item>
+        <item type="id" name="button3">false</item>
+        <item type="id" name="textView1">false</item>
+        <item type="id" name="button2">false</item>
+        <item type="id" name="button4">false</item>
+        <item type="id" name="scrollView1">false</item>
+        <item type="id" name="button8">false</item>
+        <item type="id" name="button9">false</item>
+        <item type="id" name="button10">false</item>
+        <item type="id" name="button17">false</item>
+        <item type="id" name="button12">false</item>
+        <item type="id" name="button5">false</item>
+        <item type="id" name="button7">false</item>
+        <item type="id" name="button11">false</item>
+        <item type="id" name="button15">false</item>
+        <item type="id" name="button16">false</item>
+        <item type="id" name="button13">false</item>
+        <item type="id" name="button14">false</item>
+        <item type="id" name="button6">false</item>
+        <item type="id" name="button19">false</item>
+        <item type="id" name="button21">false</item>
+        <item type="id" name="button18">false</item>
+        <item type="id" name="button20">false</item>
+
+    </resources>
+

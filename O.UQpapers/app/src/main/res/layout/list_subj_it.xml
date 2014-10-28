@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/scrollView1" android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/button5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ds" />
+        <Button android:id="@id/button6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/deld" />
+        <Button android:id="@id/button7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/prp" />
+        <Button android:id="@id/button8" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/java" />
+        <Button android:id="@id/button9" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/mea" />
+        <Button android:id="@id/button10" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/se" />
+        <Button android:id="@id/button11" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dsp" />
+        <Button android:id="@id/button12" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dbms" />
+        <Button android:id="@id/button13" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/os" />
+        <Button android:id="@id/button14" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/toa" />
+        <Button android:id="@id/button15" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/cn" />
+        <Button android:id="@id/button16" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/cc" />
+        <Button android:id="@id/button17" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ai" />
+        <Button android:id="@id/button18" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/oosd" />
+        <Button android:id="@id/button19" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/daa" />
+
+    </LinearLayout>
+</ScrollView>

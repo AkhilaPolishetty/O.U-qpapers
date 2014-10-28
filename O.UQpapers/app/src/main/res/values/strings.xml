@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">O.U Qpapers</string>
+    <string name="intro">OSMANIA UNIVERSITY</string>
+    <string name="intro2">Question papers</string>
+    <string name="btn1">submit</string>
+    <string name="qsn"><font size="20">SELECT BRANCH</font></string>
+
+    <string name="cse"><font size="20">CSE</font></string>
+    <string name="eee"><font size="20">EEE</font></string>
+    <string name="mech"><font size="20">MECH</font></string>
+    <string name="it1"><font size="20">List of subjects</font></string>
+    <string name="cse1"><font size="20">List of subjects</font></string>
+    <string name="eee1"><font size="20">List of subjects</font></string>
+    <string name="it"><font size="20">IT</font></string>
+    <string name="mech1"><font size="20">List of subjects</font></string>
+    <string name="ds"><font size="15">Data Structures</font></string>
+    <string name="deld"><font size="15">Digital Electronics And Logic Design</font></string>
+    <string name="prp"><font size="15">Probability And Random Processes</font></string>
+    <string name="java"><font size="15">OOPS using Java</font></string>
+    <string name="mea"><font size="15">Managerial Economics</font></string>
+    <string name="se"><font size="15">Software Engineering</font></string>
+    <string name="dsp"><font size="15">Digital Signal Processing</font></string>
+    <string name="dbms"><font size="15">Database Management Systems</font></string>
+    <string name="os"><font size="15">Operating Systems</font></string>
+    <string name="toa"><font size="15">Theory Of Automata</font></string>
+    <string name="cn"><font size="15">Computer Networks</font></string>
+    <string name="cc"><font size="15">Compiler Construction</font></string>
+    <string name="ai"><font size="15">Artificial Intelligence</font></string>
+    <string name="oosd"><font size="15">Object Oreinted System Development</font></string>
+    <string name="daa"><font size="15">Design And Analysis Of Algorithm</font></string>
+    <string name="year1"><font size="15">2013</font></string>
+    <string name="year2"><font size="15">2012</font></string>
+    <string name="year3"><font size="15">2011</font></string>
+    <string name="year4"><font size="15">2010</font></string>
+    <string name="action_settings">Settings</string>
+
+</resources>
